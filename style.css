@@ -62,3 +62,12 @@ font-family: 'Playfair Display SC', serif; */
 .row {
     margin: 15px;
   }
+
+.footer_txt {
+    position: relative;
+}
+
+.footer_txt p {
+    font-size: 8px;
+    text-align: center;
+}
